@@ -1,2 +1,6 @@
-# projeto-ValidacaoProcessoSeletivo
-desafio de código proposto pelo programa de bolsas do Santander: Criando Um Pequeno Sistema Para Validação de Processo Seletivo  
+# Validação de Processo Seletivo
+- Desafio proposto pelo curso de Java disponibilizado pelo programa de bolsas do Santander através da plataforma Dio.
+
+### Curso: Dominando a Linguagem de Programação Java
+
+
